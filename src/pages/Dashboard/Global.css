@@ -1,0 +1,14 @@
+.containerDashboard > h1 {
+    font-size: 3rem;
+    margin: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+
+.Dashboard{
+    display: grid;
+    margin: 2rem;
+    justify-content: center;
+   background-color: black;
+}

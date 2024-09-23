@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "ice",
+        "quantidade": "5",
+        "preco": 20.00,
+        "categoria": "Cerveja",
+        "descricao" : "bebidas alcooólicas Smirnoff"
+    },
+    {
+        "id": 2,
+        "name": "Cabaré",
+        "quantidade": "15",
+        "preco": 20.00,
+        "categoria": "Cerveja",
+        "descricao" : "bebidas alcooólicas Ice"
+    },
+    {
+        "id": 3,
+        "name": "SKOL",
+        "quantidade": "3",
+        "preco": 30.00,
+        "categoria": "Cerveja",
+        "descricao" : "bebidas alcooólicas SKOL"
+    },
+    {
+        "id": 4,
+        "name": "BRAHMA",
+        "quantidade": "10",
+        "preco": 30.00,
+        "categoria": "Cerveja",
+        "descricao" : "bebidas alcooólicas BRAHMA"
+    },
+    {
+        "id": 5,
+        "name": "Old Parr",
+        "quantidade": "2",
+        "preco": 50.00,
+        "categoria": "whisky",
+        "descricao" : "whisky Old Parr"
+    },
+    {
+        "id": 6,
+        "name": "coca-cola",
+        "quantidade": "2",
+        "preco": 8.00,
+        "categoria": "Refrigerarte",
+        "descricao" : "bebidas"
+    },
+    {
+        "id": 7,
+        "name": "Fanta",
+        "quantidade": "12",
+        "preco": 10.00,
+        "categoria": "Refrigerarte",
+        "descricao" : "bebidas"
+    }
+
+]
