@@ -11,12 +11,13 @@
     font-weight: 400;
     font-style: oblique;
 }
-.Links{
+.Links {
     display: flex;
     margin: 2rem 0;
     text-align: right;
 }
-.Links p{
+.Links Link{
     margin-left: 2rem;
     margin-right: 2rem;
+    
 }

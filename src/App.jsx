@@ -1,15 +1,6 @@
-
-
-import Dashboard from './pages/Dashboard/Dashboard'
-import Homen from './pages/Homen/Homen'
-import ItensDashboard from './pages/ItensDashboard/ItensDashboard'
+import { RouterProvider } from 'react-router-dom'
+import router from './router'
 
 export default function App() {
-  return (
-    <div>
-      <Homen/>
-      <Dashboard/>
-      <ItensDashboard/>
-    </div>
-  )
+  return <RouterProvider router={router}/>
 }
