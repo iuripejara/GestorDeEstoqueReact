@@ -7,7 +7,7 @@ export default function Dashboard(){
                 <div className="Dashboard-Geral">
                     <div className="Dashboard">
                         <h2>diversidade de Itens</h2>
-                        <p>2</p>
+                        <p>2</p> a
                     </div>
                     <div className="Dashboard">
                         <h2>invetário total</h2>
