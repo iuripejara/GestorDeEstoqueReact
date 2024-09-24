@@ -3,15 +3,20 @@
     justify-content: space-between;
     align-items: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1.5rem;
-    margin: 1rem;
+    font-size: 1.3rem;
+    margin: 0.75rem 2rem 0 2rem;
+}
+.content h1{
+    font-size: 1.9rem;
+    font-weight: 400;
+    font-style: oblique;
 }
 .Links{
     display: flex;
     margin: 2rem 0;
     text-align: right;
-    margin-left: 1rem;
 }
 .Links p{
     margin-left: 2rem;
+    margin-right: 2rem;
 }
